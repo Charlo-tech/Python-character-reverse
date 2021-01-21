@@ -1,2 +1,2 @@
 word="Hello World"
-print(word[::-1])
+  print(word[::-1])
