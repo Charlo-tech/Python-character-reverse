@@ -1,2 +1,2 @@
-word="Hello World"
+word=input("Enter Name:")
   print(word[::-1])
